@@ -1,6 +1,6 @@
-# TIK-Tac-Toe With React 
+# TiK-Tac-Toe With React 
 
-[Create React App](https://elvinhatamov.github.io/Tic-Tac-Toe-With-React/).
+[Tik-Tak_Toe](https://elvinhatamov.github.io/Tic-Tac-Toe-With-React/).
 
 This is a Tic Tac Toe game built using React. The game allows two players to take turns marking spaces on a 3x3 grid. The first player marks spaces with an 'X', while the second player marks spaces with an 'O'. The first player to get three of their marks in a row, column, or diagonal wins the game.
 
